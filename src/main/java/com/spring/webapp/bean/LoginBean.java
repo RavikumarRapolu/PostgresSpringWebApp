@@ -3,7 +3,7 @@ package com.spring.webapp.bean;
 public class LoginBean {
 	private String email;
 	private String password;
-
+	private String hello;
 	public String getEmail() {
 		return email;
 	}
